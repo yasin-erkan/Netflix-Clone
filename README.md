@@ -10,7 +10,6 @@ Movie Thumbnails: Display of popular movies using grid layout and hover effects.
 Technologies Used
 HTML5 - For structuring the content.
 CSS3 - For styling and layout design.
-Bootstrap - For responsive design and quick styling solutions.
 
 Future Improvements
 Add JavaScript for movie sliders and dynamic content.
