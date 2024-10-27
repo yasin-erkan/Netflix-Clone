@@ -4,7 +4,7 @@
 
 ## 📸 Preview
 
-![Netflix Clone Demo](path/to/your/demo.gif)
+![Netflix Clone Demo](https://github.com/yasin-erkan/Netflix-Clone/blob/main/Netflix-Clone-.gif))
 
 ---
 
