@@ -1,10 +1,8 @@
 # 🎥 Netflix Clone
 
----
-
 ## 📸 Preview
 
-![Netflix Clone Demo](https://github.com/yasin-erkan/Netflix-Clone/blob/main/Netflix-Clone-.gif))
+![Netflix Clone Demo]( Netflix-Clone-.gif)
 
 ---
 
